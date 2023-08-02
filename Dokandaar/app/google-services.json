@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1052981124232",
+    "firebase_url": "https://dokandaar-591e3.firebaseio.com",
+    "project_id": "dokandaar-591e3",
+    "storage_bucket": "dokandaar-591e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052981124232:android:56d50cf8f529914b27533d",
+        "android_client_info": {
+          "package_name": "com.example.dokandaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052981124232-7696cl7j5at6747md42scq45k3b9njf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKV5ldi5ok-JLLnE7siEleE-6RYb8x4vE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052981124232-7696cl7j5at6747md42scq45k3b9njf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

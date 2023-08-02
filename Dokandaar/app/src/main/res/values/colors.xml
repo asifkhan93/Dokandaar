@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2E958B</color>
+    <color name="colorPrimaryDark">#19729A</color>
+    <color name="colorGray">#6003170D</color>
+    <color name="teal_200">#12E6D1</color>
+    <color name="teal_700">#208C8B</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#EC2727</color>
+    <color name="colorGreen">#43A047</color>
+
+</resources>
